@@ -1,4 +1,4 @@
-/*Primer ejercicio de leetcode: De los mas sencillos.*/
+/*Primer ejercicio de leetcode: De los mas sencillos con los que empezar.*/
 var twoSum = function (nums, target) {
     let arreglo = {};
     let a;
