@@ -1,3 +1,5 @@
+/*Segundo ejercicio de Leetcode: un poco mas dificil que el primero */
+
 var addTwoNumbers = function (l1, l2) {
     let acarreo, suma, valor, val_l1, val_l2;
     acarreo = suma = 0
