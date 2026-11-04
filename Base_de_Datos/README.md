@@ -1,0 +1,3 @@
+# ***Categoria de Base de Datos en Leetcode***
+
+En esta carpeta encontraras la seccion de leetcode llamada Base de Datos o Databases. Dentro de esta carpeta encontraras los motores de bd con los que he resuelto algunos de los ejercicios, actualmente he trabajado con 2 motores (Mysql y SQL Server [Estoy trabajando con PostgreSQL (proximamente algunos ejercicios) ]) por lo que dentro encontraremos dichos motores antes mencionados. Espero y te sean de utilidad amiguito **:)**
